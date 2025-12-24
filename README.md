@@ -1,0 +1,1 @@
+- linux_automation.py – Executes Linux system commands using Python to fetch uptime, disk, and memory usage
