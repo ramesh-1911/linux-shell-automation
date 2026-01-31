@@ -1,0 +1,6 @@
+INFO Server started successfully
+INFO Database connected
+WARNING High memory usage detected
+ERROR Failed to connect to Redis
+INFO Health check completed
+CRITICAL Disk space exhausted
