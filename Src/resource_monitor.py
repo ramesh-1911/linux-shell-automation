@@ -1,5 +1,6 @@
 import platform
 import subprocess
+from datetime import datetime
 
 def run_command(command):
     result = subprocess.run(
@@ -9,7 +10,7 @@ def run_command(command):
         capture_output=True
     )
     return result.stdout.strip()
-
+print("Run Time:", datetime.now())
 print("Resource Monitoring Report")
 print("--------------------------")
 
