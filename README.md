@@ -7,3 +7,5 @@
 - logging_example.py – Demonstrates production-style logging for automation scripts
 
 - log_parser.py – Automated log scanning and error detection script
+
+- scheduler_simulation.py – Demonstrates scheduled automation execution logic
